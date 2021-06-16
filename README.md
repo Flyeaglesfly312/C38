@@ -1,2 +1,2 @@
-# C38
-Making the game camera follow the player sprite
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
